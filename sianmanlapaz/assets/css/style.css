@@ -1,0 +1,7 @@
+body { background: #f5f7fb; }
+.navbar-brand { font-weight: 700; }
+.card { border: 0; box-shadow: 0 0.25rem 1rem rgba(0,0,0,.06); }
+.table-actions { white-space: nowrap; }
+.login-box { max-width: 430px; margin: 7rem auto; }
+.page-title { font-weight: 700; }
+.badge-role { text-transform: capitalize; }
